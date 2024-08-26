@@ -6,6 +6,5 @@ function parOuImpar(x) {
     }
 }
 
-// Exemplo de uso
-parOuImpar(2);   // "O número 2 é par."
-parOuImpar(25);  // "O número 25 é ímpar."
+parOuImpar(2);   
+parOuImpar(25); 
