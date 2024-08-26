@@ -9,6 +9,5 @@ function calcularDesconto(valorTotal) {
     }
 }
 
-// Exemplo de uso
-calcularDesconto(250);  // "O valor total do pedido com desconto é de R$ 225.00, onde o desconto aplicado foi de R$ 25.00."
-calcularDesconto(150);  // "O valor total do pedido é de R$ 150.00."
+calcularDesconto(250); 
+calcularDesconto(150);  
