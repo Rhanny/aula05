@@ -8,7 +8,6 @@ function maiorNumero(a, b) {
     }
 }
 
-// Exemplo de uso
-maiorNumero(5, 2);  // "O número 5 é maior que 2."
-maiorNumero(2, 5);  // "O número 5 é maior que 2."
-maiorNumero(5, 5);  // "Os dois números são iguais."
+maiorNumero(5, 2);  
+maiorNumero(2, 5);  
+maiorNumero(5, 5); 
