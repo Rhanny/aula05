@@ -11,6 +11,5 @@ function verificarLimiteCaracteres(str) {
     }
 }
 
-// Exemplo de uso
-verificarLimiteCaracteres("Este é um exemplo de string");  // "O limite de caracteres ainda não foi excedido..."
-verificarLimiteCaracteres("Este é um exemplo de string com mais de vinte caracteres"); // "O limite de caracteres foi excedido."
+verificarLimiteCaracteres("Este é um exemplo de string"); 
+verificarLimiteCaracteres("Este é um exemplo de string com mais de vinte caracteres");
