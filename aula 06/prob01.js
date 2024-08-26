@@ -8,6 +8,6 @@ function podeDirigir(idade, temCarteira) {
     }
 }
 
-// Exemplo de uso
-podeDirigir(20, true);  // "Você está apto(a) a dirigir."
-podeDirigir(20, false); // "Você não está apto(a) a dirigir."
+
+podeDirigir(20, true);  
+podeDirigir(20, false); 
