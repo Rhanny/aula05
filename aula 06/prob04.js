@@ -4,5 +4,4 @@ function decrementar(num) {
     }
 }
 
-// Exemplo de uso
-decrementar(5); // Exibe 4, 3, 2, 1, 0
+decrementar(5);
